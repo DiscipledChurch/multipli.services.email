@@ -1,2 +1,2 @@
 # multipli.services.email
-MultipleChMS e-mail service
+MultipliChMS e-mail service
